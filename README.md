@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedyasser-gu" alt="ahmedyasser-gu" /></a> </p>
 
-- 🌱 I’m currently studying my bachelors **Gothenburg university**
+- 🌱 I’m currently doing my bachelors in **Gothenburg university**
 
 - 💬 Fluent in English & Arabic , Beginner in Swedish
 
 - 📫 How to reach me **ahmedtaalab95@hotmail.com**
 
-- ⚡ Fun fact **Weird bugs may end up exotic solutions >:D**
+- ⚡ Fun fact **Weird bugs may end up as exotic solutions >:D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
