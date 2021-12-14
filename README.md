@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
+<h1 align="center"> 👋 Ahmed Yasser</h1>
 <h3 align="center">A passionate Software engieering student living in Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser-gu&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedyasser-gu" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying my bachelors **Gothenburg university**
 
-- 💬 Ask me about **JavaScript, HTML , CSS , Vue.js , Java , Python**
+- 💬 Fluent in English & Arabic , Beginner in Swedish
 
 - 📫 How to reach me **ahmedtaalab95@hotmail.com**
 
