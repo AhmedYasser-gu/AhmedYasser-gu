@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser-gu&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="ahmedyasser-gu" /> </p>
 
-- 🌱 I’m currently doing my bachelors in **Gothenburg university**
+- 🌱 I’m currently doing my Bachelors in **Gothenburg university** & Tinkering with new programming languages(Mini projects)
 
 - 💬 Fluent in English & Arabic , Beginner in Swedish
 
