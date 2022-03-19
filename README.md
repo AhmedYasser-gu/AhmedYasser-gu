@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently doing **my Bachelors in Gothenburg university**
 
-- 🔭 I’m currently learning **about React , C# , C++ , and Game Dev. using Unity**
+- 🔭 I’m currently learning **about React , C++ , and Game Dev. using Unity**
 
 - 👨‍💻 Most of my projects are available at [https://github.com/AhmedYasser-gu?tab=repositories](https://github.com/AhmedYasser-gu?tab=repositories)
 
