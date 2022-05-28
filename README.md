@@ -11,7 +11,7 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/AhmedYasser-gu?tab=repositories](https://github.com/AhmedYasser-gu?tab=repositories)
 
-- 💬 Fluent in **English , Arabic & Beginner in Swedish**
+- 💬 Fluent in **English , Arabic & intermediate in Swedish**
 
 - 📫 How to reach me **ahmedtaalab95@hotmail.com**
 
