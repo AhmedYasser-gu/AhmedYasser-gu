@@ -7,13 +7,23 @@
 
 - 🌱 I’m currently doing **my Bachelors in Gothenburg university**
 
-- 🔭 I’m currently learning more about **React , C++ , and Go**
+- 🔭 I’m currently learning more about  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 - 👨‍💻 Most of my projects are available at [https://github.com/AhmedYasser-gu?tab=repositories](https://github.com/AhmedYasser-gu?tab=repositories)
 
 - 💬 Fluent in **English , Arabic & intermediate in Swedish**
 
-- 📫 How to reach me **ahmedtaalab95@hotmail.com**
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="[https://www.linkedin.com/in/codewithbernard/](https://www.linkedin.com/in/ahmed-yasser-7b6a351b1/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <p> Email : ahmedtaalab95@hotmail.com </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
