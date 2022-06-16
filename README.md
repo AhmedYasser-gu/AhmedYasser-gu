@@ -1,6 +1,6 @@
 <h3 align="center"> Hey , I am Ahmed Yasser <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"></h3> 
 
-<h3 align="center">A passionate Software Engieering Student in Sweden <br> Always keen on encountering new challenges </h3>
+<h3 align="center">A determined Software Engieering Student in Sweden <br> Always keen on encountering new challenges </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser-gu&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="ahmedyasser-gu" /> </p>
