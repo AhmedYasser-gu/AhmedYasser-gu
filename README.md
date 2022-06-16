@@ -22,7 +22,7 @@
 </div>
 
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-yasser-7b6a351b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-yasser-7b6a351b1" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/ahmed-yasser-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-yasser-7b6a351b1" height="30" width="40" /></a>  
 <a href="https://instagram.com/ahmed_foox_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_foox_" height="30" width="40" /></a>
 
 
