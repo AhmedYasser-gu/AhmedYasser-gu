@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser-gu&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="ahmedyasser-gu" /> </p>
 
-- 🌱 I’m currently doing **my Bachelors in Gothenburg university**
+- 🌱 I’m currently doing **my Bachelors in Gothenburg university (Last Year)**
 
 - 🔭 I’m currently learning more about  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> <img src="https://img.shields.io/badge/wordpress-%23007ACC.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="TypeScript"/>
