@@ -23,7 +23,7 @@
 </p>
 
 <div display="flex">
-  <p>Email : <a href="mailto:ahmed.yasser@fondly.se" style="color:#FC6203; font-weight:bold; text-decoration:none;">ahmed.yasser@fondly.se</a></p>
+  <p>Email : <a href="mailto:ahmedtaalab95@hotmail.com" style="color:#FC6203; font-weight:bold; text-decoration:none;">ahmed.yasser@fondly.se</a></p>
 </div>
 
 
