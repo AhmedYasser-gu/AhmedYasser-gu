@@ -1,12 +1,12 @@
 <h3 align="center">👋 Hey , I am Ahmed Yasser <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"></h3> 
 
-<h3 align="center">A determined Software Engieering Student in Sweden <br> Always keen on encountering new challenges </h3>
+<h3 align="center">A determined Software Engineer in Sweden <br> Always keen on encountering new challenges </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser-gu&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="ahmedyasser-gu" /> </p>
 
-- 🌱 I’m currently doing **my Bachelors in Gothenburg university ( In my Last Year )**
-- ☕️ Working at Fondly AB as Software Engineer
+- 🌱 I have finished **my Bachelors degree in Gothenburg university**
+- ☕️ Working at Inveztly AB as Software Engineer
 - 🔭 I’m currently learning more about  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB" alt="Python"/>
 
