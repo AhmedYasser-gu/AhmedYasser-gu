@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB" alt="Python"/>
 
 - 👨‍💻 Most of my projects are available at my [GitHub](https://github.com/AhmedYasser-gu?tab=repositories), [GitLab](https://git.chalmers.se/users/ahmedya/groups)
+  
+- ✨ HackerRank: [Account](https://www.hackerrank.com/ahmedtaalab9935?hr_r=1)
 
 - 💬 Fluent in **English, Arabic & intermediate in Swedish**
 
