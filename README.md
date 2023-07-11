@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser-gu&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="ahmedyasser-gu" /> </p>
 
-- 🌱 I have finished **my Bachelors degree in Gothenburg university**
+- 🌱 I got my **Software Engineering & Management Bachelor Program at Gothenburg University**
 - ☕️ Working at Inveztly AB as Software Engineer
 - 🔭 I’m currently learning more about  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB" alt="Python"/>
@@ -15,6 +15,7 @@
 - ✨ HackerRank: [Account](https://www.hackerrank.com/ahmedtaalab9935?hr_r=1)
 
 - 💬 Fluent in **English, Arabic & intermediate in Swedish**
+- 🌝 Balancing out with Football, Chess and Swimming
 
 ## 🌐 Socials:
 
